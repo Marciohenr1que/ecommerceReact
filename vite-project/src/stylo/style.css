@@ -1,0 +1,196 @@
+.cabeçalho{
+    background-color: purple;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    height: 60px;
+    width: 600px;
+    margin: 0 auto;
+}
+.titulo{
+    font-size: 40px;
+}
+.div-payment{
+    background-color: rgb(174, 174, 245);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 20px;
+    height: 60px;
+    width: 600px;
+    margin: 0 auto;
+}
+.img-payment{
+    height: 50px;
+    width: 100px;
+
+}
+.produtositulo{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.titulo-span {
+    background-color: purple;
+    font-size: 30px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.Carrinholoja{
+    background-color: blue;
+    width: 640px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    
+}
+.img-poduto{
+    width: 100%;
+
+}
+.produto-jogo{
+    margin: 0 auto;
+    width: 26%;
+    text-align: center;
+    
+}
+.Produtos-carrinho{
+    background-color: azure;
+    display: flex;
+    width: 46%;
+    flex-wrap: wrap;
+   
+
+}
+.div-topo{
+    display: flex;
+    justify-content: center;
+    
+}
+.div-topo-01{
+    display: flex;
+    width: 600px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.div-central{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.div-btn-cart{
+   
+    display: flex;
+    justify-content: end;
+    width: 950px;
+}
+
+.btn-cart{
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;   
+}
+.div-compra{
+    width: 48%;
+    margin: 0 auto;
+}
+.div-imagescompra{
+    width: 64%;
+    background-color: aliceblue;
+    display: flex;
+    margin-bottom: 20px;
+}
+.image-compra{
+    width: 50%;
+}
+.img{
+    width: 100%;
+    margin-right: 10px;
+}
+.div-conteudo{
+    display: flex;
+    flex-direction: column;
+    
+}
+.div-rodape{
+    display: flex;
+    justify-content: space-between;
+
+}
+.div-pagamento{
+    align-self: flex-start;
+    
+}
+.div-span{
+    display: flex;
+    gap: 20px;
+}
+.maior{
+    background-color: purple;
+    padding: 8px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.menor{
+    background-color: purple;
+        padding: 8px;
+        font-size: 20px;
+        color: white;
+        border-radius: 10px;
+}
+.container-checkout {
+    width: 38em;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.div-checkout {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5em;
+    margin-bottom: 1em;
+}
+
+.field-checkout {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+.img-checkout {
+    width: 32%;
+}
+
+
+.div-btn-final {
+    display: flex;
+    justify-content: end;
+}
+
+.div-btn-final button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: .5em;
+    font-size: 1.2em;
+    width: 10em;
+    margin: .5em;
+    border-radius: 10px;
+}
